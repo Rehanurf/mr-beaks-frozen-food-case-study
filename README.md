@@ -1,13 +1,13 @@
 # Mr. Beaks – Frozen Food E-commerce Website
 
 ## 🏠 Homepage
-![Homepage](Home%20Page.jpg)
+![Homepage](/images/Home%20Page.jpg)
 
 ## 📝 Blog Page
-![Blog Page](Blog%20Page.jpg)
+![Blog Page](/images/Blog%20Page.jpg)
 
 ## 📂 Specific Blog Section
-![Specific Blog Section](Specific%20Blog%20Section.jpg)
+![Specific Blog Section](/images/Specific%20Blog%20Section.jpg)
 
 ## 📞 Contact Us
-![Contact Us](Contact%20US.jpg)
+![Contact Us](/images/Contact%20US.jpg)
